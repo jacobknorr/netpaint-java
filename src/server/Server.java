@@ -1,7 +1,7 @@
 package server;
 
 /**
- * TO BE CHANGED to allow multiple clients to read and write a Vector of
+ * Allows multiple clients to read and write a Vector of
  * PaintObjects every time a client writes a PaintObject to this server.
  *
  * CS 335
